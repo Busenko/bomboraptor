@@ -98,7 +98,7 @@ h6 {
 
 @font-face {
   font-family: 'Montserrat';
-  src: url('/assets/fonts/Montserrat.woff2') format('woff2');
+  src: url('../assets/fonts/Montserrat.woff2') format('woff2');
   font-weight: 100 900;
   font-display: swap;
 }
@@ -221,17 +221,20 @@ margin-bottom: 1rem;
     font-size: 1.2rem;
      font-weight: 600;
      margin-bottom: 1rem;
+    text-align: center;
 }
 .h1-main {
     color: #213a00;
     font-size: 2.5rem;
     line-height: 1.2;
+     text-align: center;
     
 }
 .h1-bottom {
     color: #464646;
     font-size: 1.6rem;
     font-weight: 600;
+     text-align: center;
 }
 
 
